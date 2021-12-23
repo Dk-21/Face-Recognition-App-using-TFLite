@@ -18,4 +18,4 @@ What are the key features of this app?
 
 <!-- ![](https://cdn-images-1.medium.com/max/400/1*4SwMMiDI_2mB0dYqDmuvUg.gif) -->
 
-**An example of the working app.** Will Farrell (the comedian) vs Chad Smith (the drummer). People usually confuse them. First the faces are registered in the dataset, then the app recognizes the faces in runtime. Tested on my Google Pixel 3.
+**An example of the working app.** i have posted one video to get full functionality of the real time working model on the android device with updated packages.
