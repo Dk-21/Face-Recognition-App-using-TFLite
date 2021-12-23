@@ -6,7 +6,7 @@ The impressive effect of having the state-of-the-art running on your hands
 
 ### Introduction
 
-**_“is it possible to make an app that compares faces on mobile_**  
+**_“is it possible to make an app that compares faces on mobile?_**  
 **_without an Internet connection? How accurate could it be?_**_”_. 
 deep learning model is used for higher accuracy and efficiency. It uses the state-of-the-art convolutional neural network to accurate verify faces on mobile.
 
